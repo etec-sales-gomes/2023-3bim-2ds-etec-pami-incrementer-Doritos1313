@@ -1,0 +1,16 @@
+button{
+    background-color: black;
+    color: white;
+    display: inline;
+}
+
+.contador{
+    background-color: beige;
+    color: rgba(34, 197, 34, 0.705);
+    border-style: solid;
+    border-radius: 2rem;
+    display: inline;
+    padding-inline: 1rem;
+    margin: 1rem ;
+    
+}
